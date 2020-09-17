@@ -1,6 +1,7 @@
-AWS CloudFront Samples
+Based on AWS CloudFront Samples
 Copyright 2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
 This product includes software developed by
 Amazon Technologies, Inc (http://www.amazon.com/).
+Jason Klein, Logic Forte (https://logicforte.com/).
 
